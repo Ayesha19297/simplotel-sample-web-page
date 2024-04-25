@@ -1,0 +1,1 @@
+# simplotel-sample-web-page
